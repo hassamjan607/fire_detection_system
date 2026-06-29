@@ -20,7 +20,8 @@ To increase reliability and interpretability, the system features a decoupled **
 Example:
 
 ```markdown
-![Application Demo](images/demo.png)
+<img width="691" height="388" alt="image" src="https://github.com/user-attachments/assets/7db941d2-5214-400c-8f82-e696ec4e0c4f" />
+
 ```
 
 ---
